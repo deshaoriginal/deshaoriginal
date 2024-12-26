@@ -6,4 +6,4 @@ I like anime, Attack of the Titans <3
 ![Static Badge](https://img.shields.io/badge/py-python-green?logo=pythonanywhere&logoColor=%231D9FD7)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshaoriginal_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshaoriginal&show_icons=true&theme=radical)
